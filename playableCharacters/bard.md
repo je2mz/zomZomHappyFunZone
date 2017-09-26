@@ -2,36 +2,38 @@
 
 ## Cantrips
 
-### Harmony
+### Harmonic Aura
 
-_You play a melody that brings your ally strength and power._
+_You play a melody that bring peace to your allies._
 
-Select **ally** target. Harmony will remain on this target until you select another ally target.
+This aura will remain active and cost no action points to sustain. All allies within range are affected.
 
-Ally with Harmony will block (1d4)+2 damage from all success hits.
+Heal 3 health once per turn, and gain an additional 5ft of movement.
 
-### Friction
+### Adrenaline Aura
 
-Select **enemy** target. Friction will remain on this target until you select another enemy target.
+_You play a melody that bring strength to your allies._
 
-Enemy with Friction will receive (2d4)+2 extra damage on all successful hits on target.
+This aura will remain active and cost no action points to sustain. All allies within range are affected.
+
+Deal an additional 3 damage, and gain +1 to your attack rolls.
 
 ## Abilities
 
-### Ballad
+### Amp It Up
 
 _You dance and play a ballad that brings joy and strength to allies within range._
 
-All allies within a 40x40ft square from you receive a (2d6)+2 heal while you are channeling Ballad.
+Depending on what aura is currently active, it will amp up that aura. All allies within range are affected.
 
-During the channel you have a movement speed of 10ft during your turn.
+**Healing Aura**: Heal 1d10 + 5 health once per turn and gain an additional 15ft of movement.
+
+**Adrenaline Aura**: Deal an additional 1d10 + 5 damage and gain +2 to your attack rolls.
+
+Amp It Up finishes at the end of your next turn.
 
 ### Beat Box
 
-_You bust a beat box causing enemies to be distracted by your awkward raps._
+_You bust a beat box causing enemies to be blown away by your rhythm._
 
-All enemies in a 25x25ft square from where you project your beats take (2d6)+2 damage while you channel your raps.
-
-The center of your Beat Box may be projected up to 50ft away from where you are standing.
-
-During the channel you have a movement speed of 15ft during your turn.
+Deal 2d10 damage in a cone in front of you. Push all enemies 10ft away from you.
