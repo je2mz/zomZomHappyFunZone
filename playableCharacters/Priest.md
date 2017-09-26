@@ -37,7 +37,7 @@ else
 
 ### Underworld
 
-_You bite your finger drawing blood.  Using the blood you illustrate symbols on the floor around you causing the space in another area to turn black and misty._
+_You bite your finger drawing blood.  Using the blood, you illustrate symbols on the floor around you causing the space in another area to turn black and misty._
 
 
 Up to 30ft away, you project and channel a 15x15ft square.
