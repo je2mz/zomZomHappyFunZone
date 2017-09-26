@@ -2,36 +2,36 @@
 
 ## Cantrips
 
-### Harmony
+### Healing Aura
 
-_You play a melody that brings your ally strength and power._
+_You play a melody that brings peace to your allies._
 
-Select **ally** target. Harmony will remain on this target until you select another ally target.
+This aura will remain active and cost no action points until you switch auras.
 
-Ally with Harmony will block (1d4)+2 damage from all success hits.
+You and your allies within range of this aura will heal 3 health once per turn. You may step into the aura during your turn.
 
-### Friction
+### Adrenaline Aura
 
-Select **enemy** target. Friction will remain on this target until you select another enemy target.
+_You play a sick solo that boosts your teams morale._
 
-Enemy with Friction will receive (2d4)+2 extra damage on all successful hits on target.
+This aura will remain active and cost no action points until you switch auras.
+
+You and your allies within range of this aura gain an additional 10ft of movement per turn. You may step into the aura during your turn.
 
 ## Abilities
 
-### Ballad
+### Amp It Up
 
 _You dance and play a ballad that brings joy and strength to allies within range._
 
-All allies within a 40x40ft square from you receive a (2d6)+2 heal while you are channeling Ballad.
+Healing Aura: You and your allies within range of this aura will heal 10 health once per turn. You may step into the aura during your turn.
 
-During the channel you have a movement speed of 10ft during your turn.
+Adrenaline Aura: You and your allies within range of this aura gain an additional 20ft of movement per turn. You may step into the aura during your turn.
+
+Amp It Up finishes just before your next turn begins.
 
 ### Beat Box
 
-_You bust a beat box causing enemies to be distracted by your awkward raps._
+_You bust a beat box causing enemies to be blown away by your rhythm._
 
-All enemies in a 25x25ft square from where you project your beats take (2d6)+2 damage while you channel your raps.
-
-The center of your Beat Box may be projected up to 50ft away from where you are standing.
-
-During the channel you have a movement speed of 15ft during your turn.
+Deal 1d8 damage in a cone in front of you. Push all enemies 10ft away from you.
