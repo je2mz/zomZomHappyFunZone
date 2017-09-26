@@ -2,21 +2,21 @@
 
 ## Cantrips
 
-### Healing Aura
+### Harmonic Aura
 
-_You play a melody that brings peace to your allies._
+_You play a melody that bring peace to your allies._
 
-This aura will remain active and cost no action points until you switch auras.
+This aura will remain active and cost no action points to sustain. All allies within range are affected.
 
-You and your allies within range of this aura will heal 3 health once per turn. You may step into the aura during your turn.
+Heal 3 health once per turn, and gain an additional 5ft of movement.
 
 ### Adrenaline Aura
 
-_You play a sick solo that boosts your teams morale._
+_You play a melody that bring strength to your allies._
 
-This aura will remain active and cost no action points until you switch auras.
+This aura will remain active and cost no action points to sustain. All allies within range are affected.
 
-You and your allies within range of this aura gain an additional 10ft of movement per turn. You may step into the aura during your turn.
+Deal an additional 3 damage, and gain +1 to your attack rolls.
 
 ## Abilities
 
@@ -24,14 +24,16 @@ You and your allies within range of this aura gain an additional 10ft of movemen
 
 _You dance and play a ballad that brings joy and strength to allies within range._
 
-Healing Aura: You and your allies within range of this aura will heal 10 health once per turn. You may step into the aura during your turn.
+Depending on what aura is currently active, it will amp up that aura. All allies within range are affected.
 
-Adrenaline Aura: You and your allies within range of this aura gain an additional 20ft of movement per turn. You may step into the aura during your turn.
+**Healing Aura**: Heal 1d10 + 5 health once per turn and gain an additional 15ft of movement.
 
-Amp It Up finishes just before your next turn begins.
+**Adrenaline Aura**: Deal an additional 1d10 + 5 damage and gain +2 to your attack rolls.
+
+Amp It Up finishes at the end of your next turn.
 
 ### Beat Box
 
 _You bust a beat box causing enemies to be blown away by your rhythm._
 
-Deal 1d8 damage in a cone in front of you. Push all enemies 10ft away from you.
+Deal 2d10 damage in a cone in front of you. Push all enemies 10ft away from you.
