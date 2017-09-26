@@ -1,0 +1,56 @@
+Arcane Wizard
+
+Cantrip:
+  Arcane Bolt:
+    Distance: 30ft
+    Details: You fire one arcane bolt at a single target.
+    Hit: (1d10)+1
+Spells:
+  Arcane Blast:
+    Distance: 30ft
+    Details: You shoot 4 arcane bolts at your target(s).
+    Hit: (1d10)+1 per bolt
+  Arcane Explosion:
+    Distance: 30ft
+    Details: You conjure arcane energy in your hands and transfer it to a target, exploding on contact.
+    Hit: (6d6)+4
+Ultimate:
+  Arcane Cube:
+    Distance: 45ft
+    Details: You raise a 15x15ft block of arcane power from the ground causing arcane damage to the target trapped inside.
+    hit: (2d6)+(2d10)+(2d20)+10.  Each hostile within the block takes the combined roll as damage.
+
+Cleric
+
+Cantrip:
+  The power of cow compells you - You show holy energy at a target.
+  Sleep - Put a target to sleep
+
+Spells:
+  Put your right hand on the bible - Heal a target for X
+  Holy kick balls - Cause X damage using the powerful kick of Leonidas.
+Ultimate:
+  Healing Ring - Channel up a circle of healing energy, healing people in the ring for X per turn.  Ring remains until channel is broken.
+
+Fighter 1
+
+Great Axe +6 attack 1d12+3 two handed
+Javelin (6) +6 1d6+3 projectile damage 1d10+2
+HandAxe (2) +6 1d6+3
+Rage 
+  Bonus Action
+  4 times per encounter
+  You player goes into a raging mental state.
+  You get an additional +2 to damage and attack rolls.  You are also resistant to bludgeoning, piercing, slashing damage.
+
+Reckless Attack
+  Passive
+  The first time you attack a new target or a target from behind, you get advantage on your roll.
+
+Counter Attack
+  Passive
+  If you are attacked (melee) by a hostile in sight for the first time, you may attempt to counter the attack with a punch, kick, or headbutt.
+  Hit: +3 to attack roll - 2d4
+
+Savage Attack
+  If you crit your attack roll, you get one additional weapon dice damage.
