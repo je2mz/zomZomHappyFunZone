@@ -6,44 +6,32 @@
 
 _From the shadows, you call a nurse from the Dark World to tend on the wounds of an ally._
 
-Select **ally** target.  The Nursing Shadow will heals a single target ally for (1d4)+3.
+Select **ally** target.  The Nursing Shadow will heal a single target ally for (1d6)+3.
 
 ### Weakening Shade
 
 _You cast a dark ominous shade engulfing an enemy._
 
-Select **enemy** target.  The Weakening Shade will deal damage to a single target for (1d4)+3.
+Select **enemy** target.  The Weakening Shade will deal damage to a single target for (1d6)+3.
 
 ## Abilities
 
-### Reanimate
+### Soul Syphon
 
-_You whisper scattered words under your breath as your eyes turn black and you sacrifice part of soul to another ally._
+_You whisper scattered words under your breath as your eyes turn black rendering your enemy paralyzed._
 
-Select **ally** target.  
-```
-if (target hit points equal 0)
-  {
-    You bring the target back up to life with half of their total hit points.
-    Sacrificing (1d4)-1 damage to yourself
-  }
-else
-  {
-    You heal the target for (3d12)+6.
-    Sacrificing (1d4)-1 damage to yourself.
-  }
-```
+Enemy target is put to sleep. They must do a Save Roll at the beginning of their turn to wake up. Any damage received wakes up target. Heal self for 1d6
 
+Downed Ally target will be revived giving them 2d8 health. You take 1d6 damage.
 
-### Underworld
+### Necrotic Swamp
 
 _You bite your finger drawing blood.  Using the blood, you illustrate symbols on the floor around you causing the space in another area to turn black and misty._
 
+Summon Necrotic Swamp, everything inside a 15x15ft square are affected. You take 1d6 damage.
 
-Up to 30ft away, you project and channel a 15x15ft square.
+Deal 2d12 damage to enemies and they are affected with Necrotic Fluid. Enemies can not heal while affected with Necrotic Fluid.
 
-If a target in the square is an enemy, you deal (1d10)+4 damage.
+Heal 2d12 + 5 to allies and they are affected with Necrotic Embrace. Allies affected with Necrotic Embrace will gain cc immunity and are immediately cleansed of any harmful status effects.
 
-If a target in the square is an ally, you heal for (1d10)+4.
-
-During the channel you have a 0 movement speed.
+Necrotic Fluid and Necrotic Embrace is removed at the end of the affected character's turn.
