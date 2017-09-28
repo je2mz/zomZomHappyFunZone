@@ -17,7 +17,9 @@ _You may use these cantrips as many times as you want during an encounter._
 _An icicle forms and cracks around the sleeve of your robe as you bolt the shard towards a target._
 
 **Targets:** Single
+
 **Damage:** 1d10 +3
+
 **Description:** You fire one ice bolt at a single target.
 
 ### Slush
@@ -25,7 +27,9 @@ _An icicle forms and cracks around the sleeve of your robe as you bolt the shard
 _A spout of snow forms around your hands as you tunnel the slush towards a target._
 
 **Targets:** Single
+
 **Damage:** 1d6
+
 **Description:** You pile slush on a target cutting their movement speed in half.
 
 
@@ -37,7 +41,9 @@ _You have two ability points.  You may use two ability points per encounter and 
 _Taking a deep breath of icey air, you exhale a cone shaped whirlwind of snow at a target._
 
 **Targets:** Multiple Rows(2x1,5x1,7x1,7x1) Cone
+
 **Damage:** 2d10+5
+
 **Description:** You blow a cone of snow causing damage and pushing the target(s) back 10 feet.
 
 ### What the hail?
@@ -45,5 +51,7 @@ _Taking a deep breath of icey air, you exhale a cone shaped whirlwind of snow at
 _Looking up a the sky, you shout for Boreas' guidance as you shower a barrage of fist sized ice on an area._
 
 **Targets:** Multiple 5x5 Square - Up to 30ft away.
+
 **Damage:** 2d10 +5 (per target)
+
 **Description:** You cast a shower of snow on an area.  Each enemy in the area takes damage individually.  Each enemy in the area will also have a movement speed of zero until the end of their next turn. NOTE: Allies do not take damage and their movement speed does not get effected.
