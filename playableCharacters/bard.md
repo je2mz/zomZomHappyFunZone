@@ -1,6 +1,15 @@
 # Bard
 
+|Attribute|Value|Bonus|
+|---|---|---|
+|Hit Points|25|<center> </center>|
+|Defense|12|<center> </center>|
+|Strength|10|<center> </center>|
+|Sensibility|10|<center> </center>|
+|Mobility|10|<center> </center>|
+
 ## Cantrips
+_You may use these cantrips as many times as you want during an encounter._
 
 ### Harmonic Aura
 
@@ -19,6 +28,7 @@ This aura will remain active and cost no action points to sustain. All allies wi
 Deal an additional 3 damage, and gain +1 to your attack rolls.
 
 ## Abilities
+_You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
 
 ### Amp It Up
 
