@@ -1,6 +1,16 @@
 # Priest
 
+|Attribute|Value|Bonus|
+|---|---|---|
+|Hit Points|30|<center> </center>|
+|Defense|14|<center> </center>|
+|Strength|10|<center> </center>|
+|Sensibility|10|<center> </center>|
+|Mobility|10|<center> </center>|
+
+
 ## Cantrips
+_You may use these cantrips as many times as you want during an encounter._
 
 ### Nursing Shadow
 
@@ -15,6 +25,7 @@ _You cast a dark ominous shade engulfing an enemy._
 Select **enemy** target.  The Weakening Shade will deal damage to a single target for (1d6)+3.
 
 ## Abilities
+_You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
 
 ### Soul Syphon
 
