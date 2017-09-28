@@ -17,19 +17,26 @@ _You may use these cantrips as many times as you want during an encounter._
 
 _Flavor Text_
 
-Targets: Single/3x3 Square/Cone/etc.
-Damage: 1d6
-Heals: 1d6
-Description: A detailed description of what the Cantrip actually does.
+**Targets:** Single/3x3 Square/Cone/etc.
+
+**Damage:** 1d6
+
+**Heals:** 1d6
+
+**Description:** A detailed description of what the Cantrip actually does.
 
 ### Cantrip 2
 
 _Flavor Text_
 
-Targets: Single/3x3 Square/Cone/etc.
-Damage: 1d6
-Heals: 1d6
-Description: A detailed description of what the Cantrip actually does.
+**Targets:** Single/3x3 Square/Cone/etc.
+
+**Damage:** 1d6
+
+**Heals:** 1d6
+
+**Description:** A detailed description of what the Cantrip actually does.
+
 
 ## Abilities
 _You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
@@ -37,16 +44,22 @@ _You have two ability points.  You may use two ability points per encounter and 
 ### Ability 1
 _Flavor Text_
 
-Targets: Single/3x3 Square/Cone/etc.
-Damage: 1d6
-Heals: 1d6
-Description: A detailed description of what the Ability actually does.
+**Targets:** Single/3x3 Square/Cone/etc.
+
+**Damage:** 1d6
+
+**Heals:** 1d6
+
+**Description:** A detailed description of what the Ability actually does.
 
 ### Ability 2
 
 _Flavor Text_
 
-Targets: Single/3x3 Square/Cone/etc.
-Damage: 1d6
-Heals: 1d6
-Description: A detailed description of what the Ability actually does.
+**Targets:** Single/3x3 Square/Cone/etc.
+
+**Damage:** 1d6
+
+**Heals:** 1d6
+
+**Description:** A detailed description of what the Ability actually does.
