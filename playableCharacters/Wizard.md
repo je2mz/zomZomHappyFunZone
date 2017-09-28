@@ -24,7 +24,7 @@ _An icicle forms and cracks around the sleeve of your robe as you bolt the shard
 
 ### Slush
 
-_A spout of snow forms around your hands as you tunnel the slush towards a target._
+_A spout of snow forms around your hands as you shower the slush on top of a target._
 
 **Targets:** Single
 
@@ -54,4 +54,4 @@ _Looking up a the sky, you shout for Boreas' guidance as you shower a barrage of
 
 **Damage:** 2d10 +5 (per target)
 
-**Description:** You cast a shower of snow on an area.  Each enemy in the area takes damage individually.  Each enemy in the area will also have a movement speed of zero until the end of their next turn. NOTE: Allies do not take damage and their movement speed does not get effected.
+**Description:** You cast a shower of snow on an area.  Each enemy in the area takes damage individually.  Each enemy in the area will also have a movement speed of zero until the end of their next turn. **NOTE:** Allies do not take damage and their movement speed does not get effected.
