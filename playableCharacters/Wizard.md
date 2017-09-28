@@ -1,6 +1,15 @@
 # Wizard
 
+|Attribute|Value|Bonus|
+|---|---|---|
+|Hit Points|25|<center> </center>|
+|Defense|12|<center> </center>|
+|Strength|10|<center> </center>|
+|Sensibility|10|<center> </center>|
+|Mobility|10|<center> </center>|
+
 ## Cantrips
+_You may use these cantrips as many times as you want during an encounter._
 
 Cantrip:
   Arcane Bolt:
@@ -24,23 +33,18 @@ Ultimate:
 
 ### Ice Bolt
 
-_From the shadows, you call a nurse from the Dark World to tend on the wounds of an ally._
+_An icicle forms and cracks around the sleeve of your robe as you bolt the shard towards a target._
 
 You fire one ice bolt at a single target dealing (1d10)+3 damage.
 
 ### Slush
 
-_From the shadows, you call a nurse from the Dark World to tend on the wounds of an ally._
+_A spout of snow forms around your hands as you tunnel the slush towards a target._
 
 You pile slush on a target cutting their movement speed in half.
 
-### Weakening Shade
-
-_You cast a dark ominous shade engulfing an enemy._
-
-Select **enemy** target.  The Weakening Shade will deal damage to a single target for (1d6)+3.
-
 ## Abilities
+_You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
 
 ### Soul Syphon
 
