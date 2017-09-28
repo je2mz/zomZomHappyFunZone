@@ -4,6 +4,7 @@
 |---|---|---|
 |Hit Points|25|<center> </center>|
 |Defense|12|<center> </center>|
+|Accuracy|10|<center> </center>|
 |Strength|10|<center> </center>|
 |Sensibility|10|<center> </center>|
 |Mobility|10|<center> </center>|
@@ -11,57 +12,38 @@
 ## Cantrips
 _You may use these cantrips as many times as you want during an encounter._
 
-Cantrip:
-  Arcane Bolt:
-    Distance: 30ft
-    Details: You fire one arcane bolt at a single target.
-    Hit: (1d10)+1
-Spells:
-  Arcane Blast:
-    Distance: 30ft
-    Details: You shoot 4 arcane bolts at your target(s).
-    Hit: (1d10)+1 per bolt
-  Arcane Explosion:
-    Distance: 30ft
-    Details: You conjure arcane energy in your hands and transfer it to a target, exploding on contact.
-    Hit: (6d6)+4
-Ultimate:
-  Arcane Cube:
-    Distance: 45ft
-    Details: You raise a 15x15ft block of arcane power from the ground causing arcane damage to the target trapped inside.
-    hit: (2d6)+(2d10)+(2d20)+10.  Each hostile within the block takes the combined roll as damage.
-
 ### Ice Bolt
 
 _An icicle forms and cracks around the sleeve of your robe as you bolt the shard towards a target._
 
-You fire one ice bolt at a single target dealing (1d10)+3 damage.
+**Targets:** Single
+**Damage:** 1d10 +3
+**Description:** You fire one ice bolt at a single target.
 
 ### Slush
 
 _A spout of snow forms around your hands as you tunnel the slush towards a target._
 
-You pile slush on a target cutting their movement speed in half.
+**Targets:** Single
+**Damage:** 1d6
+**Description:** You pile slush on a target cutting their movement speed in half.
+
 
 ## Abilities
 _You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
 
-### Soul Syphon
+### Snow Cone
 
-_You whisper scattered words under your breath as your eyes turn black rendering your enemy paralyzed._
+_Taking a deep breath of icey air, you exhale a cone shaped whirlwind of snow at a target._
 
-Enemy target is put to sleep. They must do a Save Roll at the beginning of their turn to wake up. Any damage received wakes up target. Heal self for 1d6
+**Targets:** Multiple Rows(2x1,5x1,7x1,7x1) Cone
+**Damage:** 2d10+5
+**Description:** You blow a cone of snow causing damage and pushing the target(s) back 10 feet.
 
-Downed Ally target will be revived giving them 2d8 health. You take 1d6 damage.
+### What the hail?
 
-### Necrotic Swamp
+_Looking up a the sky, you shout for Boreas' guidance as you shower a barrage of fist sized ice on an area._
 
-_You bite your finger drawing blood.  Using the blood, you illustrate symbols on the floor around you causing the space in another area to turn black and misty._
-
-Summon Necrotic Swamp, everything inside a 15x15ft square are affected. You take 1d6 damage.
-
-Deal 2d12 damage to enemies and they are affected with Necrotic Fluid. Enemies can not heal while affected with Necrotic Fluid.
-
-Heal 2d12 + 5 to allies and they are affected with Necrotic Embrace. Allies affected with Necrotic Embrace will gain cc immunity and are immediately cleansed of any harmful status effects.
-
-Necrotic Fluid and Necrotic Embrace is removed at the end of the affected character's turn.
+**Targets:** Multiple 5x5 Square - Up to 30ft away.
+**Damage:** 2d10 +5 (per target)
+**Description:** You cast a shower of snow on an area.  Each enemy in the area takes damage individually.  Each enemy in the area will also have a movement speed of zero until the end of their next turn. NOTE: Allies do not take damage and their movement speed does not get effected.
