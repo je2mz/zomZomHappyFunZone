@@ -8,6 +8,8 @@
 
   You also have two `ability` points.  You may use two ability points per encounter and these points reset after an encounter is completed. You may spend both points on one spell, or spend one point for each.
 
+  Striking a target with your bare hands will deal 1d4 damage unless otherwise specified.
+  
 ## Minor
   A `minor` action can be defined as a small action such as standing up, unsheathing your sword, or picking up an item.  If you are unsure if the action you make is considered minor, the GM will make the final decision.
 
