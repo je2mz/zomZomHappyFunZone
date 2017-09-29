@@ -40,7 +40,7 @@ _You have two ability points.  You may use two ability points per encounter and 
 
 _Taking a deep breath of icey air, you exhale a cone shaped whirlwind of snow at a target._
 
-**Targets:** Multiple Rows(2x1,5x1,7x1,7x1) Cone
+**Targets:** Multiple / Rows(2x1,5x1,7x1,7x1) Cone
 
 **Damage:** 2d10+5
 
@@ -50,7 +50,7 @@ _Taking a deep breath of icey air, you exhale a cone shaped whirlwind of snow at
 
 _Looking up a the sky, you shout for Boreas' guidance as you shower a barrage of fist sized ice on an area._
 
-**Targets:** Multiple 5x5 Square - Up to 30ft away.
+**Targets:** Multiple / 5x5 Square / Center up to 30ft away
 
 **Damage:** 2d10 +5 (per target)
 

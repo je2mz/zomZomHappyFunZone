@@ -14,37 +14,45 @@ _You may use these cantrips as many times as you want during an encounter._
 
 ### Harmonic Aura
 
-_You play a melody that bring peace to your allies._
+_Out of your pocket you pull out a small harmonica and flutter an elegant melody that bring peace to your allies._
 
-This aura will remain active and cost no action points to sustain. All allies within range are affected.
+**Targets:** Multiple / 5x5
 
-Heal 3 health once per turn, and gain an additional 5ft of movement.
+**Heals:** 1d4 +2/per turn
+
+**Description:** All allies within a 5x5 radius around you will heal once at the end of your turn -or- at the end of an ally's turn (if walked into range), whichever comes first.  They will also have advantage on attack rolls, and disadvantage on attack rolls against them.  This aura will remain active until stopped/broken by an attack from an enemy.
 
 ### Adrenaline Aura
 
-_You play a melody that bring strength to your allies._
+_Pulling out your guitar, you riff a solo so sweet that Jack Black would write a song about you._
 
-This aura will remain active and cost no action points to sustain. All allies within range are affected.
+**Targets:** Multiple / 5x5
 
-Deal an additional 3 damage, and gain +1 to your attack rolls.
+**Description:** All allies within a 5x5 radius around you will deal an additional 1d6 damage, gain advantage on attack rolls, and disadvantage on attack rolls made against them.  This aura will remain active until stopped/broken by an attack from an enemy.  
 
 ## Abilities
 _You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
 
-### Amp It Up
+### Amp It Up!
 
-_You dance and play a ballad that brings joy and strength to allies within range._
+_Who needs a speaker, when you can haka! You roar deep and stomp into the ground with a force so deadly, awakening something inside the people around you as you start your war dance._
 
-Depending on what aura is currently active, it will amp up that aura. All allies within range are affected.
+**Targets:** Multiple / 5x5
 
-**Healing Aura**: Heal 1d10 + 5 health once per turn and gain an additional 15ft of movement.
+**Description:** Depending on what aura is currently active, it will amp up that aura. All allies within a 5x5 radius are affected.
 
-**Adrenaline Aura**: Deal an additional 1d10 + 5 damage and gain +2 to your attack rolls.
+**Harmonic Aura**: Heal 1d10 + 5 health once per turn and gain advantage +3 on attack rolls and disadvantage -3 on attack rolls against you.
 
-Amp It Up finishes at the end of your next turn.
+**Adrenaline Aura**: Deal an additional 1d10 + 5 damage and gain advantage +3 on attack rolls and disadvantage -3 on attack rolls against you.
+
+Amp It Up will remain active for two turns and end at the end of that second turn -or- until stopped/broken by an attack from an enemy.  
 
 ### Beat Box
 
-_You bust a beat box causing enemies to be blown away by your rhythm._
+_If your mother only knew! Your mouth gapes open as you bust a beat box layering sounds on top of vocals causing enemies to be blown away by your mad skillz, bro._
 
-Deal 2d10 damage in a cone in front of you. Push all enemies 10ft away from you.
+**Targets:** Multiple / Rows(2x1,5x1,7x1,7x1) Cone
+
+**Damage:** 2d10+5
+
+**Description:** You deal damage to all target(s) in front of you also pushing the target(s) back 10 feet.
