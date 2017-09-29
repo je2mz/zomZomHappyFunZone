@@ -69,4 +69,4 @@
   |Enemy|Damage|2d12|`Necrotic Fluid` Can not take a Major action on their next turn|
   |Ally|Heal|2d12 +5|`Necrotic Embrace` Gain crowd control immunity and are immediately cleansed of any harmful status effects|
 
-  Necrotic Fluid and Necrotic Embrace is removed at the end of the affected character's turn.
+  Necrotic Fluid and Necrotic Embrace is removed at the end of the affected character's next turn.
