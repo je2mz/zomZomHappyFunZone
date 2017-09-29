@@ -53,4 +53,4 @@
 
   **Damage:** 1d6 + 4
 
-  **Description:** You shoot 5 arrows at 1 or multiple targets.  Roll attack and damage once.  Each arrow deals the same damage separately.
+  **Description:** You shoot 5 arrows at 1 or multiple targets.  Roll once for damage.  Each enemy in the area takes the damage individually.

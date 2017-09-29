@@ -28,8 +28,6 @@
 
   **Targets:** Single / 40ft
 
-  **Damage:** N/A
-
   **Description:** The enemy is marked until it dies or you switch marked targets. All allies gain advantage against this enemy. This enemy gets disadvantage if it attacks anyone else other than you.
 
 ## Abilities
@@ -50,8 +48,6 @@
   _Poof! Wudduya need?_
 
   **Targets:** Self
-
-  **Damage:** N/A
 
   **Heals:** 1d4
 

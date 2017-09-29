@@ -19,7 +19,7 @@
 
   **Damage:** 1d6
 
-  **Description:** All enemies in range move to an open space closest to you. Disadvantage does not effect you until the start of your next turn.
+  **Description:** All enemies in range move to an open space closest to you. Roll once for damage.  Each enemy in the area takes the damage individually. If applicable: disadvantage does not effect you until the start of your next turn.
 
 ### Intimidating Shout
 
@@ -29,7 +29,7 @@
 
   **Damage:** 1d6
 
-  **Description:** All allies within range have advantage and all enemies have disadvantage while intimidated. Intimidation ends at the end of your next turn.
+  **Description:** All allies within range have advantage and all enemies have disadvantage while intimidated. Roll once for damage.  Each enemy in the area takes the damage individually.  Intimidation ends at the end of your next turn.
 
 ## Abilities
   _You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
@@ -37,7 +37,7 @@
 ### The Great Wall
   _Calling upon your ancestor, an ethereal wall is conjured for your safety._
 
-  **Targets:** 4x1 area directly in front of you
+  **Targets:** Floor / 4x1 area directly in front of you
 
   **Description:** You create a wall in front of you that enemies can not shoot or pass through. The shield has 10 hit points, a defense of 13, remains there for two rounds, and is removed at the end of your second turn.
 

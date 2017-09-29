@@ -55,4 +55,4 @@
 
   **Damage:** 2d10+5
 
-  **Description:** You deal damage to all target(s) in front of you also pushing the target(s) back 10 feet.
+  **Description:** You deal damage to all target(s) in front of you also pushing the target(s) back 10 feet.  Roll once for damage.  Each enemy in the area takes the damage individually.

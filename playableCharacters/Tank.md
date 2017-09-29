@@ -18,7 +18,7 @@
 
   **Targets:** Single target
 
-  **Damage:**
+  **Damage:** 1d10 +4
 
   |Weapon|Damage|Effect|
   |---| :---: |---|
@@ -33,7 +33,8 @@
 
   **Targets:** Single target
 
-  **Damage:**
+  **Damage:** 1d6 +3
+  **Damage:** 1d4 +2
 
   |Weapon|Damage|Effect|
   |---| :---: |---|
@@ -53,7 +54,7 @@
 
   **Damage:** 2d6 +3
 
-  **Description:** You attack all targets around you rolling damage to each target individually.
+  **Description:** You attack all targets around you. Roll damage for each enemy.  Each enemy in the area takes the damage individually.
 
 ### Charge
 

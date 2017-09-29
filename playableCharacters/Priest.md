@@ -62,7 +62,7 @@
 
   **Heals:** See chart below
 
-  **Description:** You take 1d6 damage to cast.  In a 20x20ft square up to 30ft away, any enemy or ally is effected by the chart below:
+  **Description:** You take 1d6 damage to cast.  In a 20x20ft square up to 30ft away, each enemy or ally is effected by the chart below:
 
   |Target|Action|Roll|Effect|
   |---|---| :---: |---|

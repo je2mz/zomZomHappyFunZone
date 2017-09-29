@@ -43,7 +43,7 @@
 
   **Damage:** 2d10+5
 
-  **Description:** You blow a cone of snow causing damage and pushing the target(s) back 10 feet.
+  **Description:** You blow a cone of snow causing damage and pushing the target(s) back 10 feet. Roll once for damage.  Each enemy in the area takes the damage individually.
 
 ### What the hail?
 
@@ -51,6 +51,6 @@
 
   **Targets:** Multiple / 5x5 Square / Center up to 30ft away
 
-  **Damage:** 2d10 +5 (per target)
+  **Damage:** 2d10 +5
 
-  **Description:** You cast a shower of snow on an area.  Each enemy in the area takes damage individually.  Each enemy in the area will also have a movement speed of zero until the end of their next turn. **NOTE:** Allies do not take damage and their movement speed does not get effected.
+  **Description:** You cast a shower of snow on an area.  Roll once for damage.  Each enemy in the area takes the damage individually. Each enemy in the area will also have a movement speed of zero until the end of their next turn. **NOTE:** Allies do not take damage and their movement speed does not get effected.
