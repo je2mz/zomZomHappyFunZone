@@ -1,13 +1,13 @@
-# Class
+# Archer
 
 |Attribute|Value|Bonus|
 |---|---|---|
 |Hit Points|30|<center> </center>|
 |Defense|14|<center> </center>|
-|Accuracy|10|<center> </center>|
+|Accuracy|17|<center> </center>|
 |Strength|10|<center> </center>|
 |Sensibility|10|<center> </center>|
-|Mobility|10|<center> </center>|
+|Mobility|15|<center> </center>|
 
 
 ## Cantrips

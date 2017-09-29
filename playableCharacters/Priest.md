@@ -4,6 +4,7 @@
 |---|---|---|
 |Hit Points|30|<center> </center>|
 |Defense|14|<center> </center>|
+|Accuracy|15|<center> </center>|
 |Strength|10|<center> </center>|
 |Sensibility|10|<center> </center>|
 |Mobility|10|<center> </center>|

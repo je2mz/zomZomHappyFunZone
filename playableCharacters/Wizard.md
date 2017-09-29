@@ -4,9 +4,9 @@
 |---|---|---|
 |Hit Points|25|<center> </center>|
 |Defense|12|<center> </center>|
-|Accuracy|10|<center> </center>|
+|Accuracy|14|<center> </center>|
 |Strength|10|<center> </center>|
-|Sensibility|10|<center> </center>|
+|Sensibility|17|<center> </center>|
 |Mobility|10|<center> </center>|
 
 ## Cantrips

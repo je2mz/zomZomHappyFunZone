@@ -5,12 +5,11 @@ Just some random game my brother and I are making.
 ## Directories
 
 - monsters
+  - A folder that will hold information on monsters.
 - playableCharacters
+  - A folder that will hold all the playable characters.
+- images
+  - A folder containing all reference images.
 
-## monsters
-
-A folder that will hold information on the mosters and notes we will include in the game.
-
-## playableCharacters
-
-A folder that will hold all the playable characters and notes we will include in the game.
+## Story
+Put stuff here about the storyline.
