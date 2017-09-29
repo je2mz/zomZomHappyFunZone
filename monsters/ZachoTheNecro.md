@@ -1,21 +1,14 @@
 # Zacho the Necro
 
-|Attribute|Value|Bonus|Notes|
-|---|---|---|---|
-|Hit Points|70|<center> </center>|Your hit points are counted differently.  See chart below.|
-|Defense|12|<center> </center>|---|
-|Accuracy|10|<center> </center>|---|
-|Strength|10|<center> </center>|---|
-|Sensibility|10|<center> </center>|---|
-|Mobility|10|<center> </center>|---|
-
-|Damage Done|HP Removed|
-|---|---|
-|<5|1|
-|6-10|2|
-|11-15|3|
-|16-20|4|
-|>20|5|
+  **NOTE:** Your damage taken is calculated differently, see chart on the right
+  |Attribute|Value|Bonus|<center></center>|<center></center>|Damage Taken|HP Removed|
+  |---| :---: |---|---|---| :---: | :---: |
+  |Hit Points|70|<center> </center>|<center></center>|<center></center>|<5|1|
+  |Defense|12|<center> </center>|<center></center>|<center></center>|6-10|2|
+  |Accuracy|10|<center> </center>|<center></center>|<center></center>|6-10|2|
+  |Strength|10|<center> </center>|<center></center>|<center></center>|11-15|3|
+  |Sensibility|10|<center> </center>|<center></center>|<center></center>|16-20|4|
+  |Mobility|10|<center> </center>|<center></center>|<center></center>|>20|5|
 
 ## Cantrips
   _You may use these cantrips as many times as you want during an encounter._
@@ -37,7 +30,6 @@
   **Damage:** 1d10 +3
 
   **Description:** You shoot a shadow dart at an enemy.
-
 
 ## Abilities
   _You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
