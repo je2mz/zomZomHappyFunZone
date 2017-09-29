@@ -28,7 +28,7 @@
 
   **Targets:** Single / 60ft
 
-  **Damage:** 2d8+2
+  **Damage:** 1d8 +2
 
   **Description:** You take a shot at a target's head.  On a successful hit, the target is concussed and their movement speed is halved.
 
@@ -41,7 +41,7 @@
 
   **Targets:** Single / 60ft
 
-  **Damage:** 3d8+4
+  **Damage:** 2d8 +4
 
   **Description:** You take a shot at a target with your arrow.  On a successful hit, the arrow marks your target giving +3 to all attack rolls against the target.
 
@@ -51,6 +51,6 @@
 
   **Targets:** Multiple / 60ft
 
-  **Damage:** 1d6 + 4
+  **Damage:** 2d6 +4
 
   **Description:** You shoot 5 arrows at 1 or multiple targets.  Roll once for damage.  Each enemy in the area takes the damage individually.

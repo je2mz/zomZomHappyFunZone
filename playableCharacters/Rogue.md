@@ -18,7 +18,7 @@
 
   **Targets:** Single / 5ft
 
-  **Damage:** 4d4 + 2
+  **Damage:** 4d4 +2
 
   **Description:** You quickly slash your enemies in a blur of 4 slices.
 
@@ -39,7 +39,7 @@
 
   **Targets:** Single / 30ft
 
-  **Damage:** 1d8+2
+  **Damage:** 1d8 +2
 
   **Description:** You throw a ninja star with a highly venomous snake attached. The enemy is affected with Deadly Poison, they taked 1d12 damage at the beginning of their turn. Save Ends (The enemy rolls against your defense).
 

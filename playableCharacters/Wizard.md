@@ -41,7 +41,7 @@
 
   **Targets:** Multiple / Rows(2x1,5x1,7x1,7x1) Cone
 
-  **Damage:** 2d10+5
+  **Damage:** 2d10 +5
 
   **Description:** You blow a cone of snow causing damage and pushing the target(s) back 10 feet. Roll once for damage.  Each enemy in the area takes the damage individually.
 

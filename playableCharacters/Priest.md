@@ -49,7 +49,7 @@
 
   |Target|Action|Roll|Effect|
   |---|---| :---: |---|
-  |Enemy|Sleep/Damage/Heal|1d6 +3|<li>Enemy target is put to sleep. They must do a Save Roll at the beginning of their turn to wake up. Any damage received wakes target</li><li>Your roll heals yourself or transfer your heal to an ally</li>|
+  |Enemy|Sleep/Damage/Heal|1d6 +3|<li>Enemy target is put to sleep. They must do a saving roll against your Sensibility at the beginning of their turn to wake up. Any damage received wakes target</li><li>Your roll deals damage to an enemy then heals yourself or transfers your heal to an ally within range</li>|
   |Ally|Revive/Damage/Heal|2d8|<li>A downed ally target will be revived giving them 2d8 health</li><li>You take half that as damage to heal your ally</li>|
 
 ### Necrotic Swamp

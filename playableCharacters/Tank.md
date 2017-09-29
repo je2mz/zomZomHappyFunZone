@@ -33,8 +33,7 @@
 
   **Targets:** Single target
 
-  **Damage:** 1d6 +3
-  **Damage:** 1d4 +2
+  **Damage:** 
 
   |Weapon|Damage|Effect|
   |---| :---: |---|

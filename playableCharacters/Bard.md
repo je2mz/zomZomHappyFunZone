@@ -18,9 +18,9 @@
 
   **Targets:** Multiple / 5x5
 
-  **Heals:** 1d4 +2/per turn
+  **Heals:** 1d4 +2/per round
 
-  **Description:** All allies within a 5x5 radius around you will heal once at the end of your turn -or- at the end of an ally's turn (if walked into range), whichever comes first.  They will also have advantage on attack rolls, and disadvantage on attack rolls against them.  This aura will remain active until stopped/broken by an attack from an enemy.
+  **Description:** All allies within a 5x5 radius around you will heal once at the end of your turn -or- at the start of an ally's turn (if walked into range), whichever comes first.  They will also have advantage on attack rolls, and disadvantage on attack rolls against them.  This aura will remain active until stopped/broken by an attack from an enemy.
 
 ### Adrenaline Aura
 
@@ -28,7 +28,7 @@
 
   **Targets:** Multiple / 5x5
 
-  **Description:** All allies within a 5x5 radius around you will deal an additional 1d6 damage, gain advantage on attack rolls, and disadvantage on attack rolls made against them.  This aura will remain active until stopped/broken by an attack from an enemy.  
+  **Description:** All allies within a 5x5 radius around you will deal an additional 1d6 damage, gain advantage on attack rolls, and disadvantage on attack rolls against them.  This aura will remain active until stopped/broken by an attack from an enemy.  
 
 ## Abilities
   _You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
@@ -39,13 +39,13 @@
 
   **Targets:** Multiple / 5x5
 
-  **Description:** Depending on what aura is currently active, it will amp up that aura. All allies within a 5x5 radius are affected.
+  **Description:** Depending on what aura is currently active, amp it up using the description below. Amp It Up will remain active for two rounds and end at the end of that second round -or- until stopped/broken by an attack from an enemy.
 
-  **Harmonic Aura**: Heal 1d10 + 5 health once per turn and gain advantage +3 on attack rolls and disadvantage -3 on attack rolls against you.
+  **Amp'ed Up Harmonic Aura**: All allies within range will heal **1d10 + 5** at the end of your turn -or- at the start of an ally's turn (if walked into range), whichever comes first.  
 
-  **Adrenaline Aura**: Deal an additional 1d10 + 5 damage and gain advantage +3 on attack rolls and disadvantage -3 on attack rolls against you.
+  **Amp'ed Up Adrenaline Aura**: All allies within range will deal an additional **1d10 + 5** damage, gain advantage on attack rolls, and disadvantage on attack rolls against them.  This aura will remain active until stopped/broken by an attack from an enemy.  
 
-  Amp It Up will remain active for two turns and end at the end of that second turn -or- until stopped/broken by an attack from an enemy.  
+
 
 ### Beat Box
 
@@ -53,6 +53,6 @@
 
   **Targets:** Multiple / Rows(2x1,5x1,7x1,7x1) Cone
 
-  **Damage:** 2d10+5
+  **Damage:** 2d10 +5
 
   **Description:** You deal damage to all target(s) in front of you also pushing the target(s) back 10 feet.  Roll once for damage.  Each enemy in the area takes the damage individually.
