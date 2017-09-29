@@ -2,7 +2,7 @@
 
   |Attribute|Value|Bonus|
   |---|---|---|
-  |<center>Hit Points|<center>30|<center>|
+  |<center>Hit Points|<center>30</center>|<center>|
   |<center>Defense|<center>14|<center>|
   |<center>Accuracy|<center>14|<center>|
   |<center>Strength|<center>10|<center>|
@@ -10,7 +10,7 @@
   |<center>Mobility|<center>10|<center>|
 
 
-## <center>Cantrips</center>
+## Cantrips
 <center>_You may use these cantrips as many times as you want during an encounter._
 
 ### Nursing Shadow
