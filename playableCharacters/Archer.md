@@ -47,14 +47,12 @@ _You pull an arrow from your quiver that shines a bright yellow, even in the dar
 
 **Description:** You take a shot at a target with your arrow.  On a successful hit, the arrow marks your target giving +3 to all attack rolls against the target.
 
-### Ability 2
+### One arrow, two arrow, three arrows, more?
 
-_Flavor Text_
+_Pulling a handful of arrows from your quiver, you place them between each of your fingers shooting each arrow one behind the others in a stream of heavy artillery._
 
-**Targets:** Single/3x3 Square/Cone/etc.
+**Targets:** Multiple / 60ft
 
-**Damage:** 1d6
+**Damage:** 1d6 + 4
 
-**Heals:** 1d6
-
-**Description:** A detailed description of what the Ability actually does.
+**Description:** You shoot 5 arrows at 1 or multiple targets.  Roll attack and damage once.  Each arrow deals the same damage separately.
