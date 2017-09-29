@@ -15,7 +15,7 @@ _You may use these cantrips as many times as you want during an encounter._
 
 ### Flurry
 
-_Moving like a shadow in the night, a blur sweeps through your foe so quickly, they feel only 1 of the four incisions._
+_Moving like a shadow in the night, a blur sweeps through your foe so quickly, they feel only one of the 4 incisions._
 
 **Targets:** Single / 5ft
 
