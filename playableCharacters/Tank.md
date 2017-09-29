@@ -13,15 +13,22 @@
 ## Cantrips
 _You may use these cantrips as many times as you want during an encounter._
 
-### EarthShatter
+### Weapon of Choice
 
-_Your hammer strikes your enemy down causing a minor earthquake._
+_You might not be the sharpest tool, but you sure as hell better be the strongest.  Choose your destiny, flawless victory._
 
 **Targets:** Single target
 
-**Damage:** 1d8 +4
+**Damage:** See chart below
 
-**Description:** Swing your weapon down on your enemy, they are slowed until the end of their next turn.
+**Description:** Select a weapon below to swing/stab/chop/slice/slam at your enemy.
+
+|Weapon|Damage|Effect - 2nd Attack Roll|
+|---|---|---|
+|2h Battle Axe|1d10 +4|Chance to decapitate limb doubling damage|
+|2h War Hammer|1d10 +4|Chance to half target's movement speed until end of next turn|
+|1h Short Sword|1d6 +3|Chance to make a second attack|
+|1h Spear|1d6 +3|Chance to impale target causing zero movement speed until end of next turn|
 
 ### Intimidating Shout
 
