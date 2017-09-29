@@ -3,7 +3,7 @@
   |Attribute|Value|Bonus|
   |---| :---: | :---: |
   |Hit Points|50|<center> </center>|
-  |Defense|16|<center> </center>|
+  |Defense|15|<center> </center>|
   |Accuracy|15|<center> </center>|
   |Strength|15|<center> </center>|
   |Sensibility|10|<center> </center>|
@@ -12,49 +12,55 @@
 ## Cantrips
   _You may use these cantrips as many times as you want during an encounter._
 
-### Weapon of Choice
+### Two Hand Touch
 
-  _You might not be the sharpest tool, but you sure as hell better be the strongest.  Choose your destiny, flawless victory._
+  _Using both hands to draw your weapon.  Your muscles harden as your veins balloon and you attack._
 
   **Targets:** Single target
 
-  **Damage:** See chart below
-
-  **Description:** Select a weapon below to swing/stab/chop/slice/slam at your enemy. Make your first attack roll for hit, second attack roll for chance on effect.
+  **Damage:**
 
   |Weapon|Damage|Effect|
   |---| :---: |---|
   |2h Battle Axe|1d10 +4|Chance to decapitate limb doubling damage|
   |2h War Hammer|1d10 +4|Chance to half target's movement speed until end of next turn|
+
+  **Description:** Select a weapon to swing/stab/chop/slice/slam at your enemy. Make your first attack roll for hit, second attack roll for chance on effect.
+
+### Tag, you're it!
+
+  _Thirsty for blood, you quickly draw your weapon and strike._
+
+  **Targets:** Single target
+
+  **Damage:**
+
+  |Weapon|Damage|Effect|
+  |---| :---: |---|
   |1h Short Sword|1d6 +3|Chance to make a second attack|
-  |1h Spear|1d6 +3|Chance to impale target causing zero movement speed until end of next turn|
+  |1h Spear|Melee: 5ft 1d6 +3<br>Range: 15ft 1d4 +2|Chance to impale target causing zero movement speed until end of next turn|
 
-### Intimidating Shout
+  **Description:** Select a weapon to swing/stab/chop/slice/slam at your enemy. Make your first attack roll for hit, second attack roll for chance on effect.
 
-  _You let out a war cry invigorating your team and terrifying the enemy._
-
-  **Targets:** 3x3 square around caster
-
-  **Damage:** 1d6 +3
-
-  **Description:** All allies within range get +1 to their attack rolls and all enemies get -1 to their attack rolls. You taunt all enemies within range.
 
 ## Abilities
   _You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
 
-### The Great Wall
-  _Calling upon your ancestor, an ethereal wall is conjured for your safety._
+### Blades of Fury
+  _You become an unstoppable frenzy of destructive force, striking all targets around you._
 
-  **Targets:** 4x1 area directly in front of you
-
-  **Description:** You create a wall in front of you that enemies can not shoot or pass through. The shield has 1d10 health and remains there until the end of your next turn.
-
-### Initiate
-
-  _You dash towards your enemy startling them._
-
-  **Targets:** Single target / 25ft
+  **Targets:** Multiple / 3x3
 
   **Damage:** 2d6 +3
 
-  **Description:** Dash towards your enemy in a straight line. Taunts the enemy. Enemy must make a saving roll against your strength to remove taunt.
+  **Description:** You attack all targets around you rolling damage to each target individually.
+
+### Charge
+
+  _You charge at an enemy running at full speed and attack._
+
+  **Targets:** Single / 25ft
+
+  **Damage:** 2d6 +3
+
+  **Description:** Charge at your enemy stunning them.  Stunned, the target will have a zero movement speed until the end of their next turn.
