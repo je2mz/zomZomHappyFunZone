@@ -60,4 +60,4 @@
 
   **Heals:** N/A
 
-  **Description:** Teleports you or an ally within range to a square adjacent to you.
+  **Description:** Teleports an ally within range to a square adjacent to you.
