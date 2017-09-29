@@ -1,4 +1,4 @@
-# <center>Priest
+# Priest
 
   |Attribute|Value|Bonus|
   |---|---|---|
@@ -11,7 +11,7 @@
 
 
 ## Cantrips
-<center>_You may use these cantrips as many times as you want during an encounter._
+<center> _You may use these cantrips as many times as you want during an encounter._ </center>
 
 ### Nursing Shadow
 
