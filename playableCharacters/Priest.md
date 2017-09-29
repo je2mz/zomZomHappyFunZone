@@ -1,17 +1,17 @@
-# Priest
+# <center>Priest
 
-|Attribute|Value|Bonus|
-|---|---|---|
-|Hit Points|30|<center> </center>|
-|Defense|14|<center> </center>|
-|Accuracy|14|<center> </center>|
-|Strength|10|<center> </center>|
-|Sensibility|15|<center> </center>|
-|Mobility|10|<center> </center>|
+  |Attribute|Value|Bonus|
+  |---|---|---|
+  |<center>Hit Points|<center>30|<center>|
+  |<center>Defense|<center>14|<center>|
+  |<center>Accuracy|<center>14|<center>|
+  |<center>Strength|<center>10|<center>|
+  |<center>Sensibility|<center>15|<center>|
+  |<center>Mobility|<center>10|<center>|
 
 
-## Cantrips
-_You may use these cantrips as many times as you want during an encounter._
+## <center>Cantrips
+<center>_You may use these cantrips as many times as you want during an encounter._
 
 ### Nursing Shadow
 
