@@ -18,7 +18,7 @@
 
   **Targets:** Single / 30ft
 
-  **Damage:** 1d10 +3
+  **Damage:** 1d8
 
   **Description:** You fire one ice bolt at a single target.
 
