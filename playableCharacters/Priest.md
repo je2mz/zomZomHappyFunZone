@@ -1,13 +1,13 @@
 # Priest
 
-    |Attribute|Value|Bonus|
-    |---| :---: | :---: |
-    |Hit Points|35|<center> </center>|
-    |Defense|14|<center> </center>|
-    |Accuracy|14|<center> </center>|
-    |Strength|10|<center> </center>|
-    |Sensibility|15|<center> </center>|
-    |Mobility|10|<center> </center>|
+  |Attribute|Value|Bonus|
+  |---| :---: | :---: |
+  |Hit Points|35|<center> </center>|
+  |Defense|14|<center> </center>|
+  |Accuracy|14|<center> </center>|
+  |Strength|10|<center> </center>|
+  |Sensibility|15|<center> </center>|
+  |Mobility|10|<center> </center>|
 
 ## Cantrips
   _You may use these cantrips as many times as you want during an encounter._

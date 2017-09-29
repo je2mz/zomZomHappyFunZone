@@ -1,6 +1,7 @@
 # Zombie Minor
 
   **NOTE:** Your damage taken is calculated differently, see chart on the right
+  
   |Attribute|Value|Bonus|<center></center>|<center></center>|Damage Taken|HP Removed|
   |---| :---: |---|---|---| :---: | :---: |
   |Hit Points|1|<center> </center>|<center></center>|<center></center>|<5|1|
