@@ -16,7 +16,7 @@ _You may use these cantrips as many times as you want during an encounter._
 
 _An icicle forms and cracks around the sleeve of your robe as you bolt the shard towards a target._
 
-**Targets:** Single
+**Targets:** Single / 30ft
 
 **Damage:** 1d10 +3
 
@@ -26,7 +26,7 @@ _An icicle forms and cracks around the sleeve of your robe as you bolt the shard
 
 _A spout of snow forms around your hands as you shower the slush on top of a target._
 
-**Targets:** Single
+**Targets:** Single / 30ft
 
 **Damage:** 1d6
 

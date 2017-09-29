@@ -27,7 +27,7 @@ _Pulling the dagger from your hip, you attempt to stab or cut your target._
 
 _You pull from your quiver the heavy arrow head.  Knowing you need to give this shot a little more strength to travel, you pull the bow a little further back and shoot._
 
-**Targets:** Single
+**Targets:** Single / 60ft
 
 **Damage:** 2d8+2
 
@@ -41,7 +41,7 @@ _You have two ability points.  You may use two ability points per encounter and 
 
 _You pull an arrow from your quiver that shines a bright yellow, even in the dark.  You take load your bow, aim, and release._
 
-**Targets:** Single
+**Targets:** Single / 60ft
 
 **Damage:** 3d8+4
 
