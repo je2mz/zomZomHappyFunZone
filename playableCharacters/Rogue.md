@@ -2,7 +2,7 @@
 
 |Attribute|Value|Bonus|
 |---|---|---|
-|Hit Points|30|<center> </center>|
+|Hit Points|35|<center> </center>|
 |Defense|15|<center> </center>|
 |Accuracy|16|<center> </center>|
 |Strength|10|<center> </center>|
@@ -37,7 +37,7 @@ _Your enemy meets your gaze and sees nothing but its imminent death._
 ## Abilities
 _You have two ability points.  You may use two ability points per encounter and these points reset after an encounter is completed._
 
-### Ninja Star with a Snake on it 
+### Ninja Star with a Snake on it
 
 _You throw a ninja star with a snake on it._
 
