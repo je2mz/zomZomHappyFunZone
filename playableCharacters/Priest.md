@@ -2,7 +2,7 @@
 
   |Attribute|Value|Bonus|
   |---|---|---|
-  |Hit Points|30|<center> </center>|
+  |Hit Points|35|<center> </center>|
   |Defense|14|<center> </center>|
   |Accuracy|14|<center> </center>|
   |Strength|10|<center> </center>|
