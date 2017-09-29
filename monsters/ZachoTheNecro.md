@@ -6,10 +6,10 @@
   |---| :---: |---|---|---| :---: | :---: |
   |Hit Points|70|<center> </center>|<center></center>|<center></center>|<5|1|
   |Defense|12|<center> </center>|<center></center>|<center></center>|6-10|2|
-  |Accuracy|10|<center> </center>|<center></center>|<center></center>|6-10|2|
-  |Strength|10|<center> </center>|<center></center>|<center></center>|11-15|3|
-  |Sensibility|10|<center> </center>|<center></center>|<center></center>|16-20|4|
-  |Mobility|10|<center> </center>|<center></center>|<center></center>|>20|5|
+  |Accuracy|10|<center> </center>|<center></center>|<center></center>|11-15|3|
+  |Strength|10|<center> </center>|<center></center>|<center></center>|16-20|4|
+  |Sensibility|10|<center> </center>|<center></center>|<center></center>|>20|5|
+  |Mobility|10|<center> </center>|<center></center>|<center></center>|
 
 ## Cantrips
   _You may use these cantrips as many times as you want during an encounter._
