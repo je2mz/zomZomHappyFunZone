@@ -1,14 +1,21 @@
 # Zombie Minor
 
-|Attribute|Value|Bonus|
-|---|---|---|
-|Hit Points|1|<center> </center>|
-|Defense|10|<center> </center>|
-|Accuracy|10|<center> </center>|
-|Strength|10|<center> </center>|
-|Sensibility|10|<center> </center>|
-|Mobility|10|<center> </center>|
+|Attribute|Value|Bonus|Notes|
+|---|---|---|---|
+|Hit Points|1 point|<center> </center>|Your hit points are counted differently.  See chart below.|
+|Defense|10|<center> </center>|---|
+|Accuracy|10|<center> </center>|---|
+|Strength|10|<center> </center>|---|
+|Sensibility|10|<center> </center>|---|
+|Mobility|10|<center> </center>|---|
 
+|Damage Done|HP Removed|
+|---|---|
+|<5|1|
+|6-10|2|
+|11-15|3|
+|16-20|4|
+|>20|5|
 
 ## Cantrips
 _You may use these cantrips as many times as you want during an encounter._
