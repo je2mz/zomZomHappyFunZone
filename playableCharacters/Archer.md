@@ -39,7 +39,7 @@ _You have two ability points.  You may use two ability points per encounter and 
 
 ### Marked Shot
 
-_You pull an arrow from your quiver that shines a bright yellow, even in the dark.  You take load your bow, aim, and release._
+_You pull an arrow from your quiver that shines a bright yellow, even in the dark.  You load your bow, aim, and release._
 
 **Targets:** Single / 60ft
 
