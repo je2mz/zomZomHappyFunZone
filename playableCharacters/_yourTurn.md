@@ -22,4 +22,4 @@
   |Accuracy|<center> </center>|Adds 1 point/per to your attack rolls|Your accuracy when attacking an enemy|
   |Strength|<center> </center>|Adds 1 point/per to your strength checks|Used when taking actions using strength. ie lifting, moving, pushing objects|
   |Sensibility|<center> </center>|Adds 1 point/per to your sensibility checks|Used when making checks that uses any of your senses or mental knowledge|
-  |Mobility|<center> </center>|Adds 1 point/per to your mobility checks|Used when taking actions that require finesse or physical skill|
+  |Mobility|<center> </center>|<li>Adds 1 point/per to your mobility checks</li><li>Adds 5ft/per to your movement speed</li>|Used when taking actions that require finesse or physical skill|
