@@ -10,7 +10,7 @@
   |<center>Mobility|<center>10|<center>|
 
 
-## <center>Cantrips
+## <center>Cantrips</center>
 <center>_You may use these cantrips as many times as you want during an encounter._
 
 ### Nursing Shadow
